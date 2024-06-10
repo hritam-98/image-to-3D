@@ -1,10 +1,10 @@
-### Isotropic3D [![arXiv](https://img.shields.io/badge/arXiv-2403.10395-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.10395)
+# Isotropic3D [![arXiv](https://img.shields.io/badge/arXiv-2403.10395-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.10395)
 
 <!-- **Results obtained by threestudio (DeepFloyd IF, batch size 8)** -->
 
 <!-- [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718046545/video_to_markdown/images/video--28c4b839f91f139b5276d3f25b27d772-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://isotropic3d.github.io/static/videos/more_results_1.mp4 "") -->
 
-## **Contributions**
+### **Contributions**
 
 - We propose a novel image-to-3D pipeline called Isotropic3D that takes only
 an image CLIP embedding as input. Isotropic3D aims to give full play to
@@ -20,19 +20,19 @@ can generate promising 3D assets while still showing similarity to the reference
 - We adopt camera settings and density initialization strategy from Magic3D, which is slightly different from the DreamFusion paper.
 - Some hyperparameters are different, such as the weighting of loss terms. -->
 
-## **Method overview**
+### **Method overview**
 ![](https://isotropic3d.github.io/static/images/pipeline.png)
 ![](https://isotropic3d.github.io/static/images/mvd.png)
-![] (<video controls src="https://isotropic3d.github.io/static/videos/compare_3D_2.mp4" title=""></video>)
+<!-- ![] (<video controls src="https://isotropic3d.github.io/static/videos/compare_3D_2.mp4" title=""></video>) -->
 
-## **Comparison with other works**
+### **Comparison with other works**
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718046621/video_to_markdown/images/video--2a77b5bbe7084fc55e8f9090a86f4cfb-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://isotropic3d.github.io/static/videos/compare_3D_1.mp4 "")
 
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718046651/video_to_markdown/images/video--609b8ba891fb79fb509945d18020b696-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://isotropic3d.github.io/static/videos/compare_3D_2.mp4 "")
 
-## **Key Takeaways**
+### **Key Takeaways**
 - Single CLIP embedding to entire 3D generation
 - **Mulitview Diffusion** model what takes the reference image and the noisy rendered 2D images
 -  A single loop to actually make the generation better
