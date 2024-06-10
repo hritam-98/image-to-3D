@@ -23,7 +23,7 @@ can generate promising 3D assets while still showing similarity to the reference
 ## **Method overview**
 ![](https://isotropic3d.github.io/static/images/pipeline.png)
 ![](https://isotropic3d.github.io/static/images/mvd.png)
-![] (https://isotropic3d.github.io/static/videos/compare_3D_2.mp4 )
+![] (<video controls src="https://isotropic3d.github.io/static/videos/compare_3D_2.mp4" title=""></video>)
 
 ## **Comparison with other works**
 
