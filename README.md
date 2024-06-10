@@ -1,9 +1,5 @@
 # Isotropic3D [![arXiv](https://img.shields.io/badge/arXiv-2403.10395-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.10395)
 
-<!-- **Results obtained by threestudio (DeepFloyd IF, batch size 8)** -->
-
-<!-- [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718046545/video_to_markdown/images/video--28c4b839f91f139b5276d3f25b27d772-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://isotropic3d.github.io/static/videos/more_results_1.mp4 "") -->
-
 ### **Contributions**
 
 - We propose a novel image-to-3D pipeline called Isotropic3D that takes only
@@ -23,7 +19,7 @@ can generate promising 3D assets while still showing similarity to the reference
 ### **Method overview**
 ![](https://isotropic3d.github.io/static/images/pipeline.png)
 ![](https://isotropic3d.github.io/static/images/mvd.png)
-<!-- ![] (<video controls src="https://isotropic3d.github.io/static/videos/compare_3D_2.mp4" title=""></video>) -->
+
 
 ### **Comparison with other works**
 
