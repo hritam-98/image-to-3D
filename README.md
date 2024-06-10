@@ -32,3 +32,35 @@ can generate promising 3D assets while still showing similarity to the reference
 - Single CLIP embedding to entire 3D generation
 - **Mulitview Diffusion** model what takes the reference image and the noisy rendered 2D images
 -  A single loop to actually make the generation better
+
+
+
+# GaussianObject [![arXiv](https://img.shields.io/badge/arXiv-2402.10259-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2402.10259)
+
+## **Contributions**
+
+
+
+### **Method overview**
+
+
+
+### **Comparison with other works**
+
+
+### **Key Takeaways**
+
+# DreamGaussian [![arXiv](https://img.shields.io/badge/arXiv-2309.16653-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.16653)
+
+## **Contributions**
+
+
+
+### **Method overview**
+
+
+
+### **Comparison with other works**
+
+
+### **Key Takeaways**
