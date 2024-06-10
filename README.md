@@ -22,12 +22,14 @@ can generate promising 3D assets while still showing similarity to the reference
 
 ## **Method overview**
 ![](https://isotropic3d.github.io/static/images/pipeline.png)
-
-<!-- ![](https://isotropic3d.github.io/static/images/mvd.png) -->
+![](https://isotropic3d.github.io/static/images/mvd.png)
+![] (https://isotropic3d.github.io/static/videos/compare_3D_2.mp4 )
 
 ## **Comparison with other works**
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718046621/video_to_markdown/images/video--2a77b5bbe7084fc55e8f9090a86f4cfb-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://isotropic3d.github.io/static/videos/compare_3D_1.mp4 "")
+
+
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718046651/video_to_markdown/images/video--609b8ba891fb79fb509945d18020b696-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://isotropic3d.github.io/static/videos/compare_3D_2.mp4 "")
 
 ## **Key Takeaways**
