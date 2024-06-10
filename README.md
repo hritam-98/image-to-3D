@@ -21,9 +21,9 @@ can generate promising 3D assets while still showing similarity to the reference
 - Some hyperparameters are different, such as the weighting of loss terms. -->
 
 ## **Method overview**
-<!-- ![](https://isotropic3d.github.io/static/images/pipeline.png) -->
-.
-![](https://isotropic3d.github.io/static/images/mvd.png)
+![](https://isotropic3d.github.io/static/images/pipeline.png)
+
+<!-- ![](https://isotropic3d.github.io/static/images/mvd.png) -->
 
 ## **Comparison with other works**
 
