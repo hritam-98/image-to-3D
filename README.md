@@ -38,17 +38,31 @@ can generate promising 3D assets while still showing similarity to the reference
 # GaussianObject [![arXiv](https://img.shields.io/badge/arXiv-2402.10259-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2402.10259)
 
 ## **Contributions**
-
+- We propose to optimize 3D Gaussians from highly sparse views
+with explicit structure priors, where several techniques are designed, including the visual hull for initialization and floater
+elimination for training.
+- A Gaussian repair model based on diffusion models is proposed
+to remove artifacts caused by omitted or highly compressed
+object information, where the rendering quality can be further
+improved.
+- The overall framework GaussianObject shows strong performance on several challenging real-world datasets, consistently
+outperforming previous state-of-the-art methods for both qualitative and quantitative evaluation.
 
 
 ### **Method overview**
 
-
+![](https://gaussianobject.github.io/static/images/pipe.png)
 
 ### **Comparison with other works**
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718054489/video_to_markdown/images/video--a8ded7cde8d5f7f68cae2659b9c26f66-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://gaussianobject.github.io/static/videos/teaser.mp4 "")
 
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718054583/video_to_markdown/images/video--20385adcc2c848155c46bf08ab885b61-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://gaussianobject.github.io/static/videos/evolution.mp4 "")
 
 ### **Key Takeaways**
+- Propose visual hull for coarse point cloud generation from 4 reference images
+- Gaussian repair module and distance aware sampling
+- 2D diffusion model and SDS loss to refine the initialized gaussians using gaussian rasterization for 2D rendering
+
 
 # DreamGaussian [![arXiv](https://img.shields.io/badge/arXiv-2309.16653-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.16653)
 
