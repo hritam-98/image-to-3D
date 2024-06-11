@@ -78,3 +78,60 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 
 
 ### **Key Takeaways**
+
+
+# InstantMesh [![arXiv](https://img.shields.io/badge/arXiv-2404.07191-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.07191)
+
+<video controls src="assets/322410754-dab3511e-e7c6-4c0b-bab7-15772045c47d-1.mp4" title="Title"></video>
+
+## **Contributions**
+
+
+
+### **Method overview**
+
+
+
+### **Comparison with other works**
+
+
+### **Key Takeaways**
+
+
+# LRM (Large Reconstruction Model) [![arXiv](https://img.shields.io/badge/arXiv-2311.04400-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.04400)
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718125572/video_to_markdown/images/video--b3c01110fed258bef84e9f56d221905f-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://yiconghong.me/LRM/static/i3d_videos/selected_samples_final_firefly%20-%20a%20campfire,%203d%20max,%20blender,%20white%20background,%20full%20view_renderings_converted.mp4 "")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1718125847/video_to_markdown/images/video--5064685a5f925cd71411dee5e6c3ecda-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://yiconghong.me/LRM/static/i3d_videos/selected_samples_final_firefly%20-%20a%20light%20purple%20teddy%20bear,%20white%20background,%203ds%20max,%20blender_renderings_converted.mp4 "")
+
+## **Contributions**
+ - EXTREMELY FAST (5 second for single image to 3D generation)
+ - 
+
+
+### **Method overview**
+
+
+
+### **Comparison with other works**
+
+
+### **Key Takeaways**
+
+
+# TripoSR (Large Reconstruction Model) [![arXiv](https://img.shields.io/badge/arXiv-2403.02151-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.02151)
+
+![alt text](assets/teaser800.gif)
+
+## **Contributions**
+ - EXTREMELY FAST (<1 second for single image to 3D generation)
+ - 
+
+
+### **Method overview**
+
+
+
+### **Comparison with other works**
+
+
+### **Key Takeaways**
