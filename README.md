@@ -137,4 +137,7 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 ### **Key Takeaways**
 
 
+# LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation [![arXiv](https://img.shields.io/badge/arXiv-2403.02151-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.02151)
+
+# GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation [![arXiv](https://img.shields.io/badge/arXiv-2403.14621-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.14621)
 
