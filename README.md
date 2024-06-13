@@ -146,3 +146,5 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 # MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images [![arXiv](https://img.shields.io/badge/arXiv-2403.14627-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.14627)
 
 # MVControl: Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting [![arXiv](https://img.shields.io/badge/arXiv-2403.09981-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.09981)
+
+# DMV3D: Denoising Multi-view Diffusion with 3D LRM [![arXiv](https://img.shields.io/badge/arXiv-2311.09217-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.09217)
