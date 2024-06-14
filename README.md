@@ -150,3 +150,5 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 # DMV3D: Denoising Multi-view Diffusion with 3D LRM [![arXiv](https://img.shields.io/badge/arXiv-2311.09217-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.09217)
 
 # Wonder3D: Single Image to 3D using Cross-Domain Diffusion [![arXiv](https://img.shields.io/badge/arXiv-2310.15008-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2310.15008)
+
+![alt text](assets/pipeline.png)
