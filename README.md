@@ -160,3 +160,6 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 # M-LRM: Multi-view Large Reconstruction Model [![arXiv](https://img.shields.io/badge/arXiv-2406.07648-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2406.07648)
 
 ![alt text](assets/image-mlrm.png)
+
+# Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers [![arXiv](https://img.shields.io/badge/arXiv-2312.09147-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2312.09147)
+![alt text](assets/image-triplane.png)
