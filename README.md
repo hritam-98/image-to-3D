@@ -157,3 +157,6 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 # EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion [![arXiv](https://img.shields.io/badge/arXiv-2312.06725-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2312.06725)
 ![alt text](assets/image-epidiff.png)
 
+# M-LRM: Multi-view Large Reconstruction Model [![arXiv](https://img.shields.io/badge/arXiv-2406.07648-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2406.07648)
+
+![alt text](assets/image-mlrm.png)
