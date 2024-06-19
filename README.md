@@ -65,37 +65,15 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 
 
 # DreamGaussian [![arXiv](https://img.shields.io/badge/arXiv-2309.16653-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2309.16653)
+![alt text](assets/dreamgaussian-image.png)
 
-## **Contributions**
-
-
-
-### **Method overview**
-
-
-
-### **Comparison with other works**
-
-
-### **Key Takeaways**
 
 
 # InstantMesh [![arXiv](https://img.shields.io/badge/arXiv-2404.07191-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.07191)
 
 <video controls src="assets/322410754-dab3511e-e7c6-4c0b-bab7-15772045c47d-1.mp4" title="Title"></video>
 
-## **Contributions**
 
-
-
-### **Method overview**
-
-
-
-### **Comparison with other works**
-
-
-### **Key Takeaways**
 
 
 # LRM (Large Reconstruction Model) [![arXiv](https://img.shields.io/badge/arXiv-2311.04400-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.04400)
@@ -125,13 +103,21 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 
 # LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation [![arXiv](https://img.shields.io/badge/arXiv-2403.02151-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.02151)
 
+![alt text](assets/image-lgm.png)
+
 # GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation [![arXiv](https://img.shields.io/badge/arXiv-2403.14621-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.14621)
+
+![alt text](https://github.com/justimyhxu/GRM/blob/master/docs/assets/pipeline.png)
 
 <!-- # Wonder3D: Single Image to 3D using Cross-Domain Diffusion [![arXiv](https://img.shields.io/badge/arXiv-2310.15008-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2310.15008) -->
 
 # MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images [![arXiv](https://img.shields.io/badge/arXiv-2403.14627-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.14627)
 
+![alt text](https://donydchen.github.io/mvsplat/static/images/architecture.png)
+
 # MVControl: Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting [![arXiv](https://img.shields.io/badge/arXiv-2403.09981-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.09981)
+
+![alt text](https://lizhiqi49.github.io/MVControl/assets/figs/3dpipeline.jpg)
 
 # DMV3D: Denoising Multi-view Diffusion with 3D LRM [![arXiv](https://img.shields.io/badge/arXiv-2311.09217-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.09217)
 ![alt text](assets/image-DMV3D.png)
