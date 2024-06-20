@@ -146,3 +146,11 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 # IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation [![arXiv](https://img.shields.io/badge/arXiv-2402.08682-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2402.08682)
 
 ![alt text](assets/im3d-image.png)
+
+# MVDream: Multi-view Diffusion for 3D Generation [![arXiv](https://img.shields.io/badge/arXiv-2308.16512-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2308.16512)
+
+![alt text](https://mv-dream.github.io/static/architecture.jpg)
+
+# ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation [![arXiv](https://img.shields.io/badge/arXiv-2312.02201-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2312.02201)
+
+![alt text](https://image-dream.github.io/static/imagedream-architecture.jpg)
