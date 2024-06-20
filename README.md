@@ -154,3 +154,7 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 # ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation [![arXiv](https://img.shields.io/badge/arXiv-2312.02201-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2312.02201)
 
 ![alt text](https://image-dream.github.io/static/imagedream-architecture.jpg)
+
+# Envision3D: One Image to 3D with Anchor Views Interpolation [![arXiv](https://img.shields.io/badge/arXiv-2403.08902-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.08902)
+
+![alt text](https://pang-yatian.github.io/Envision3D-webpage/resources/method.png)
