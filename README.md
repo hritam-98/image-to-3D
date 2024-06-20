@@ -137,3 +137,7 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 ![alt text](assets/image-triplane.png)
 
 # CRM: Convolutional Reconstruction Model 
+
+# Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting [![arXiv](https://img.shields.io/badge/arXiv-2403.09981-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.09981)
+
+![alt text](https://lizhiqi49.github.io/MVControl/assets/figs/3dpipeline.jpg)
