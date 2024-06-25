@@ -158,3 +158,11 @@ outperforming previous state-of-the-art methods for both qualitative and quantit
 # Envision3D: One Image to 3D with Anchor Views Interpolation [![arXiv](https://img.shields.io/badge/arXiv-2403.08902-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2403.08902)
 
 ![alt text](https://pang-yatian.github.io/Envision3D-webpage/resources/method.png)
+
+
+# Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion [![arXiv](https://img.shields.io/badge/arXiv-2311.15980-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2311.15980)
+ ![alt text](https://nju-3dv.github.io/projects/direct25/resources/pipeline.png)
+
+# Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation [![arXiv](https://img.shields.io/badge/arXiv-2405.20669-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.20669)
+ <video controls src="https://fourier1-to-3.github.io/videos/demo.mp4" title="Title"></video>
+
